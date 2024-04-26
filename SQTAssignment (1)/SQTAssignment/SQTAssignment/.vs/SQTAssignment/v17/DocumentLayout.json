@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E9E4B7-7C40-48AF-85A2-F90B5C7FE577}|SQTAssignment_Tests\\SQTAssignment_Tests.csproj|c:\\users\\artma\\downloads\\sqtassignment\\sqtassignment\\sqtassignment_tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E9E4B7-7C40-48AF-85A2-F90B5C7FE577}|SQTAssignment_Tests\\SQTAssignment_Tests.csproj|solutionrelative:sqtassignment_tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012DB35-A1A4-4904-A4EB-0493350073F7}|SQTAssignment\\SQTAssignment.csproj|C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\sqtassignment\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012DB35-A1A4-4904-A4EB-0493350073F7}|SQTAssignment\\SQTAssignment.csproj|solutionrelative:sqtassignment\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E9E4B7-7C40-48AF-85A2-F90B5C7FE577}|SQTAssignment_Tests\\SQTAssignment_Tests.csproj|C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\sqtassignment_tests\\sqtassignment_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35E9E4B7-7C40-48AF-85A2-F90B5C7FE577}|SQTAssignment_Tests\\SQTAssignment_Tests.csproj|solutionrelative:sqtassignment_tests\\sqtassignment_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQTAssignment_Tests",
+              "DocumentMoniker": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment_Tests\\SQTAssignment_Tests.csproj",
+              "RelativeDocumentMoniker": "SQTAssignment_Tests\\SQTAssignment_Tests.csproj",
+              "ToolTip": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment_Tests\\SQTAssignment_Tests.csproj",
+              "RelativeToolTip": "SQTAssignment_Tests\\SQTAssignment_Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000778|",
+              "WhenOpened": "2024-04-19T01:43:33.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment\\InsuranceService.cs",
+              "RelativeDocumentMoniker": "SQTAssignment\\InsuranceService.cs",
+              "ToolTip": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment\\InsuranceService.cs",
+              "RelativeToolTip": "SQTAssignment\\InsuranceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:43:34.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment_Tests\\Program.cs",
+              "RelativeDocumentMoniker": "SQTAssignment_Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\artma\\Downloads\\SQTAssignment\\SQTAssignment\\SQTAssignment_Tests\\Program.cs",
+              "RelativeToolTip": "SQTAssignment_Tests\\Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:43:34.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
